@@ -1,0 +1,10 @@
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\bin\Release\ProcessData.exe.config
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\bin\Release\ProcessData.exe
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\bin\Release\ProcessData.pdb
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\bin\Release\Ude.dll
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\obj\Release\ProcessData.Form1.resources
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\obj\Release\ProcessData.Properties.Resources.resources
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\obj\Release\ProcessData.csproj.GenerateResource.cache
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\obj\Release\ProcessData.csproj.CopyComplete
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\obj\Release\ProcessData.exe
+C:\Users\Nguyen Hong Phuc\_DATA_\ProjectData\ProcessData\ProcessData\obj\Release\ProcessData.pdb
